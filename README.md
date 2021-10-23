@@ -23,7 +23,7 @@ An interactive map for ShelterBox built with Mapbox, HTML/CSS, and Javascript.
   <img width="512" height="262" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
 </p>
 <p align="center">
-  <a href="https://ckawahar.github.io/ShelterBoxCaseStudyMap/" style="font-size:1.5em" >Final Deliverable</a>
+  <a href="https://ckawahar.github.io/ShelterBoxCaseStudyMap/" style="font-size:3.5em" >Final Deliverable</a>
 </p>
 
 ---
