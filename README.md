@@ -55,6 +55,9 @@ Design Team:
 Development Team:
 - Mapbox
 - Glitch
+- HTML
+- CSS
+- JavaScript
 
 Data:
 - Spreadsheets to input and manage case studies
