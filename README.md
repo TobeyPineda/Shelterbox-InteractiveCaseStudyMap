@@ -19,10 +19,23 @@ An interactive map for ShelterBox built with Mapbox, HTML/CSS, and Javascript.
 
 ---
 
+<p align="center">
+  <img width="512" height="262" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
+</p>
 ![Final Deliverable](https://ckawahar.github.io/ShelterBoxCaseStudyMap/)
 
 ---
 
+### About Shelterbox:
+Since 2000, ShelterBox has helped 1.7 million people by providing emergency shelter following more than 300 disasters in 95 countries.
+
+ShelterBox responds urgently to earthquake, volcano, flood, hurricane, cyclone, tsunami, or conflict by delivering emergency shelter and other aid, including blankets, water filter and carriers, solar lights, and other essential tools for survival.
+
+---
+### Case Studies:
+Case Studies are ShelterBox's way of documenting the stories and struggles of people who are affected by natural disasters or conflict.
+
+---
 ### Objective:
 - To increase exposure and access to ShelterBox’s asset bank/fundraising page. 
 - Implement a user-friendly visualization to the platform while making tools and resources available to future teams’ continuity. 
@@ -42,9 +55,11 @@ Development Team:
 
 ---
 
-<p align="center">
-  <img width="512" height="262" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
-</p>
+### About the Project:
+Data:
+- Utilizes Spreadsheets to input and manage case studies
+
+---
 
 ## You built this with Glitch!
 
