@@ -40,6 +40,9 @@ Development Team:
 - Mapbox
 - Glitch
 
+---
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## You built this with Glitch!
 
