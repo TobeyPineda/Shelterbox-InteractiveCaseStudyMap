@@ -43,7 +43,7 @@ Development Team:
 ---
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
+  <img width="1024" height="524" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
 </p>
 
 ## You built this with Glitch!
