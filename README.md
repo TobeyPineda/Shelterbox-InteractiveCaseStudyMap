@@ -34,7 +34,7 @@ Since 2000, ShelterBox has helped 1.7 million people by providing emergency shel
 ShelterBox responds urgently to earthquake, volcano, flood, hurricane, cyclone, tsunami, or conflict by delivering emergency shelter and other aid, including blankets, water filter and carriers, solar lights, and other essential tools for survival.
 
 #### Case Studies:
-Case Studies are ShelterBox's way of documenting the stories and struggles of people who are affected by natural disasters or conflict.
+Case Studies are ShelterBox's way of documenting the stories and struggles of people who are affected by natural disasters or conflict. This typically includes a personal story and photos of the people and their current living situation.
 
 ---
 ### Objective:
