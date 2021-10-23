@@ -42,7 +42,9 @@ Development Team:
 
 ---
 
-![Alt Text](https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
+</p>
 
 ## You built this with Glitch!
 
