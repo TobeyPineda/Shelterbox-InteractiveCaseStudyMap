@@ -21,9 +21,8 @@ An interactive map for ShelterBox built with Mapbox, HTML/CSS, and Javascript.
 
 <p align="center">
   <img width="512" height="262" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
+  ![Final Deliverable](https://ckawahar.github.io/ShelterBoxCaseStudyMap/)
 </p>
-
-![Final Deliverable](https://ckawahar.github.io/ShelterBoxCaseStudyMap/)
 
 ---
 
