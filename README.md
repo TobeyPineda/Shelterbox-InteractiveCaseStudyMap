@@ -45,7 +45,9 @@ Case Studies are ShelterBox's way of documenting the stories and struggles of pe
 
 ---
 
-### Tools:
+### About the Project:
+
+#### Tools:
 
 Design Team:
 - Figma
@@ -54,11 +56,8 @@ Development Team:
 - Mapbox
 - Glitch
 
----
-
-### About the Project:
 Data:
-- Utilizes Spreadsheets to input and manage case studies
+- Spreadsheets to input and manage case studies
 
 ---
 
