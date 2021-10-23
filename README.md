@@ -8,31 +8,27 @@ An interactive map for ShelterBox built with Mapbox, HTML/CSS, and Javascript.
 
 | Team Members | Description |
 | ----------- | ----------- |
-| Andy Liu |  |
-| Collin Kawahara |  |
-| Tobey Pineda |  |
-| Sam Burkholder |  |
-| Selena Somvilay |  |
-| Michelle Tenin |  |
-| Santino Espiritu |  |
-| Brian Han |  |
+| Andy Liu | Software Developer |
+| Collin Kawahara | Software Developer |
+| Tobey Pineda | Software Developer |
+| Sam Burkholder | Software Developer |
+| Selena Somvilay | UX Researcher |
+| Michelle Tenin | UX Researcher |
+| Santino Espiritu | Community Liaison  |
+| Brian Han | UX Researcher |
 
+---
+
+![Final Deliverable](https://ckawahar.github.io/ShelterBoxCaseStudyMap/)
 
 ---
 
-## What's in this project?
+### Objective:
+- To increase exposure and access to ShelterBox’s asset bank/fundraising page. 
+- Implement a user-friendly visualization to the platform while making tools and resources available to future teams’ continuity. 
+- A mapping system that displays ShelterBox’s intriguing case studies from all around the world. 
+- Creating a visually appealing and easy to use map to imbed onto their website. 
 
-← `assets`: Where we store ShelterBox .pngs and other images.
-
-← `README.md`: That's this file.
-
-← `index.html`: This is the main HTML page. Contains code for Legend and Sidebar.
-
-← `style.css`: CSS files and styling.
-
-← `script.js`: Dynamic Mapbox features. Popups, map markers/points, etc.
-
----
 
 ![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
