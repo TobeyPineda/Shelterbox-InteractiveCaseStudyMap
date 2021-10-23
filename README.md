@@ -42,25 +42,30 @@ Case Studies are ShelterBox's way of documenting the stories and struggles of pe
 - Implement a user-friendly visualization to the platform while making tools and resources available to future teams’ continuity. 
 - A mapping system that displays ShelterBox’s intriguing case studies from all around the world. 
 - Creating a visually appealing and easy to use map to imbed onto their website. 
+- Ability to hand-off project to Shelterbox and/or future groups
 
 ---
 
 ### About the Project:
 
-#### Tools:
-
-Design Team:
+#### Design Team:
 - Figma
 
-Development Team:
+#### Development Team:
 - Mapbox
 - Glitch
 - HTML
 - CSS
 - JavaScript
 
-Data:
+#### Data:
 - Spreadsheets to input and manage case studies
+
+### Design Requirements:
+- Discoverability
+- Desirability
+- Simplicity
+- Ease of Maintenance
 
 ---
 
