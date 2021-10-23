@@ -29,6 +29,16 @@ An interactive map for ShelterBox built with Mapbox, HTML/CSS, and Javascript.
 - A mapping system that displays ShelterBox’s intriguing case studies from all around the world. 
 - Creating a visually appealing and easy to use map to imbed onto their website. 
 
+---
+
+### Tools:
+
+Design Team:
+- Figma
+
+Development Team:
+- Mapbox
+- Glitch
 
 ![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
