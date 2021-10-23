@@ -47,7 +47,8 @@ Case Studies are ShelterBox's way of documenting the stories and struggles of pe
 ---
 
 ### About the Project:
-ShelterBox wants a deliverable that will not only attract more users but also retain the existing donors and encourage younger generations to start gaining interest. We aimed to improve the overall experience and visuals designs of the map to make the first impression appealing to first time visitors while also offering a seamless experience. Furthermore, we wanted to demonstrate the impact Shelterbox has had on communities throughout the world, so that it would resonate with users.
+ShelterBox wants a deliverable that will not only attract more users but also retain the existing donors and encourage younger generations to start gaining interest. We aimed to improve the overall experience and visuals designs of the map to make the first impression appealing to first time visitors while also offering a seamless experience. Furthermore, we wanted to demonstrate the impact Shelterbox has had on communities throughout the world, so that it would resonate with users. Lastly, the workflow to add features and update data is significantly simplified by utilizing only Google Spreadsheets and basic web development languages
+
 
 #### Design Team:
 - Figma
