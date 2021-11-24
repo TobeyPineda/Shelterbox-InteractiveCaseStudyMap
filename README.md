@@ -2,6 +2,8 @@
 # Interactive Case Study Map
 ### UCSD ENG 100D, Spring 2021
 
+Professor: Anh-Thu Ngo
+
 ShelterBox Liaison: Carrie Baptista
 
 An interactive map for ShelterBox built with Mapbox, HTML/CSS, and Javascript.
